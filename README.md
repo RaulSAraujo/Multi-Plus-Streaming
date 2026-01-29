@@ -1,5 +1,6 @@
-# Front-MPS 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RaulSAraujo/Front-MPS/blob/main/LICENCE) 
+# Front-MPS
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RaulSAraujo/Front-MPS/blob/main/LICENCE)
 
 # Sobre o projeto
 
@@ -10,30 +11,34 @@ Este Portfolio pessoal é uma aplicação web e mobile construida para divulgaç
 A aplicação consiste em uma apresentação pessoal seguida de projetos pessoais e minhas habilidades.
 
 ## Layout mobile
+
 <p align="center">
-   <img height="500" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/mobile_landing_page.png"> 
-  <img height="500" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/mobile_inicio.png"> 
-  <img height="500" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/mobile_Filmes.png"> 
-  <img height="500" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/mobile_Series.png"> 
+  <img height="500" src="/public/img/mobile_landing_page.png"> 
+  <img height="500" src="/public/img/mobile_inicio.png"> 
+  <img height="500" src="/public/img/mobile_Filmes.png"> 
+  <img height="500" src="/public/img/mobile_Series.png"> 
 </p>
 
 ## Layout web
 
 <p align="center">
-  <img height="300" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/landingPage.png"> 
-  <img height="300" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/Inicio.png"> 
-  <img height="300" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/Filmes.png"> 
-  <img height="300" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/Series.png"> 
-  <img height="300" src="https://github.com/RaulSAraujo/Front_MPS_Assets/blob/master/Detalhes.png"> 
+  <img height="300" src="/public/img/landingPage.png"> 
+  <img height="300" src="/public/img/Inicio.png"> 
+  <img height="300" src="/public/img/Filmes.png"> 
+  <img height="300" src="/public/img/Series.png"> 
+  <img height="300" src="/public/img/Detalhes.png"> 
 </p>
 
-
 # Tecnologias utilizadas
+
 ## Front end
+
 - HTML / CSS / JS
 - Vue3
 - Vuetify
+
 ## Implantação em produção
+
 - Back end: [nodejs](https://github.com/RaulSAraujo/Multi-Plus-Streaming-Back-end)
 - Front end web: Vue.js
 - ## API
@@ -41,8 +46,8 @@ A aplicação consiste em uma apresentação pessoal seguida de projetos pessoai
 
 # Como executar o projeto
 
-
 ## Front end web
+
 Pré-requisitos: npm / yarn / pnpm
 
 ```bash
@@ -76,4 +81,3 @@ pnpm dev
 Raul Silva Araujo
 
 https://www.linkedin.com/in/raulsaraujo/
-
